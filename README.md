@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning more about devOps!
 - 🌱 I’m currently working as Quality Engineer!
 - 💞️ I’m looking forward to become a Java developer!
-- 📫 How to reach me [linkedin : @parultthakur](https://www.linkedin.com/in/parultthakur/)
+- 📫 How to reach me [linkedin : @parultthakur](https://www.linkedin.com/in/parultthakur/) [twitter: @iparull](https://twitter.com/iparull)
 
